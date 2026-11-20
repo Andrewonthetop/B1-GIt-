@@ -11,3 +11,8 @@ nav a {
   margin-right: 15px;
   text-decoration: none;
 }
+
+footer {
+  margin-top: 40px;
+  color: gray;
+}
